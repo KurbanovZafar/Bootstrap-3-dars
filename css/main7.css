@@ -1,0 +1,16 @@
+.a{
+    background-color: purple;
+    color: white;
+}
+.b{
+    border: 1px solid purple;
+    border-radius: 10px;
+}
+.c{
+    font-size: 18px;
+}
+.e{
+    font-size: 12px;
+    border: 1px solid blue;
+    margin-top: -280px;
+}
